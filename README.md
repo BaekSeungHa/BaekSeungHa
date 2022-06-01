@@ -16,3 +16,4 @@ Here are some ideas to get you started:
 -->
 
 study manything
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekSeungHa&layout=compact)](https://github.com/BaekSeungHa/github-readme-stats)
