@@ -19,8 +19,8 @@ Here are some ideas to get you started:
 # 🖥️ My Stacks
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![Html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html&logoColor=white)
-![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=white)
+![Html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html&logoColor=black)
+![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css&logoColor=black)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
 [![BaekSeungHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekSeungHa&show_icons=true&theme=radical)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekSeungHa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
