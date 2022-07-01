@@ -22,6 +22,7 @@ Here are some ideas to get you started:
 ![Html](https://img.shields.io/badge/Html-E34F26?style=for-the-badge&logo=Html5&logoColor=white)
 ![css](https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=CSS3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-[![BaekSeungHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekSeungHa&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekSeungHa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![BaekSeungHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekSeungHa&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BaekSeungHa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
