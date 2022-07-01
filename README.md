@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🌱 Hi I'm junior developer.
+
 
 
 ![BaekSeungHa's GitHub stats](https://github-readme-stats.vercel.app/api?username=BaekSeungHa&show_icons=true&theme=radical)
