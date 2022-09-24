@@ -1,4 +1,6 @@
 <div align = center>
+  
+  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Seungha&desc=Studying%20the%20Web%20is%20lovely&fontSize=80&animation=twinkling&descAlignY=30)
 <p>My Tech Stacks!!</p>
 
