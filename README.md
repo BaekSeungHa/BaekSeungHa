@@ -1,4 +1,4 @@
-### Hi there 👋
+### 많은 연락 부탁드립니다. 👋
 
 <!--
 **kimulchan/kimulchan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
